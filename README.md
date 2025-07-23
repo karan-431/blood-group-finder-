@@ -24,5 +24,6 @@ A deep learning-powered web application that predicts blood group types (A, B, A
 
 ---
 
-## 📁 Folder Structure
+
+
 
